@@ -1,0 +1,14 @@
+127.0.0.1 - - [04/Sep/2021:13:06:14 +0100] "GET / HTTP/1.1" 404 767
+127.0.0.1 - - [04/Sep/2021:13:07:28 +0100] "GET / HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:37 +0100] "GET /jeecrudapp/ HTTP/1.1" 200 2939
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:37 +0100] "GET /jeecrudapp/js/jquery.js;jsessionid=70D881146E2F99E57B7B9FCBE89190F7 HTTP/1.1" 200 298500
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:37 +0100] "GET /jeecrudapp/css/bootstrap.css;jsessionid=70D881146E2F99E57B7B9FCBE89190F7 HTTP/1.1" 200 178152
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:37 +0100] "GET /jeecrudapp/js/bootstrap.js;jsessionid=70D881146E2F99E57B7B9FCBE89190F7 HTTP/1.1" 200 115048
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:37 +0100] "GET /favicon.ico HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:41 +0100] "GET /jeecrudapp/employees/list;jsessionid=70D881146E2F99E57B7B9FCBE89190F7 HTTP/1.1" 200 5685
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:41 +0100] "GET /jeecrudapp/js/jquery.js HTTP/1.1" 200 298500
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:41 +0100] "GET /jeecrudapp/css/bootstrap.css HTTP/1.1" 200 178152
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:41 +0100] "GET /jeecrudapp/js/bootstrap.js HTTP/1.1" 200 115048
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:50 +0100] "GET /jeecrudapp/employees/list;jsessionid=70D881146E2F99E57B7B9FCBE89190F7 HTTP/1.1" 200 5685
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:07:53 +0100] "GET /jeecrudapp/employees/add HTTP/1.1" 200 3707
+0:0:0:0:0:0:0:1 - - [04/Sep/2021:13:08:13 +0100] "GET /jeecrudapp/ HTTP/1.1" 200 2543
